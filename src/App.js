@@ -10,10 +10,10 @@ import About from './pages/About';
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Play />} />
-      <Route path="about" element={<Leaderboard />} />
-      <Route path="portfolio" element={<Learn />} />
-      <Route path="contact" element={<About />} />
+      <Route path="play" element={<Play />} />
+      <Route path="leaderboard" element={<Leaderboard />} />
+      <Route path="learn" element={<Learn />} />
+      <Route path="about" element={<About />} />
     </Routes>
   );
 }
