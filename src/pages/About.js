@@ -11,6 +11,7 @@ export default function About() {
       </ul>
       <div id='inbody'>
         <h1>About</h1>
+        <p> This game tries to teach kids about how to recycle and what can/cannot be recycled. </p>
       </div>
     </body>
   );
