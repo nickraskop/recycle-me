@@ -15,3 +15,16 @@ export default function About() {
     </body>
   );
 }
+
+
+// document.addEventListener('keydown', function(e) {
+//   if (e.key === 'f') {
+//     left();
+//   }
+//   else if (e.key === 'g') {
+//     right();
+//   }
+//   else if (e.key === '1') {
+//     spawnTrash();
+//   }
+// });
