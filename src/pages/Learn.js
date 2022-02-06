@@ -15,7 +15,8 @@ export default function Learn() {
     <div id='inbody'>
       
       <h1>Learn</h1>
-
+      
+{/* 
     <section>
       <div>
       <h2> Learn About Recycling</h2>
@@ -105,63 +106,7 @@ export default function Learn() {
     </table>
     </section>
       
-        {/* <div>
-        <p>The user will first have to choose the option between: Trash, Recycle, Compact to play <img src="" alt="ss of choosing options" /></p>
-          </div>
-        <div><p>Once the option is chosen, the items relevant to that category will fall continously from the top at</p>
-        <h2>Items falling example</h2>
-      <div class="row">
-        <div class="columnItems one">
-          <img src="" alt="item1" />
-        </div>
-        <div class="columnItems two">
-          <img src="" alt="item2"/>
-        </div>
-        <div class="columnItems three">
-          <img src="" alt="item3"/>
-        </div>
-        <div class="columnItems four">
-          <img src="" alt="item4" />
-        </div>
-        <div class="columnItems five">
-          <img src="" alt="item5"/>
-        </div>
-      </div>
-          </div>
-
-          <div>
-       
-        <p>The user will have to press the left or right arrow to move the bin and catch the correct item</p>
-        <p>If the user catches an item that doesn't belong to the bin, user loses points else user gains points</p>
-     
-      
-
-      <h2>Display of different bins</h2>
-      <div class="row">
-        <div class="column binWidth">
-          <img src="" alt="Trash Bin" />
-        </div>
-        <div class="column binWidth">
-          <img src="" alt="Recycle Bin"/>
-        </div>
-        <div class="column binWidth">
-          <img src="" alt="Compact Bin" />
-        </div>
-      </div>
-
-      <h2>Press left or right arrow key on keyboard</h2>
-      <div class="row">
-        <div class="column arrowWidth">
-          <img src="" alt="left arrow key"/>
-        </div>
-        <div class="column arrowWidth">
-          <img src="" alt="right arrow key" />
-        </div>
-      </div>
-          </div>
-     */}
-
- 
+  */}
 
       
       

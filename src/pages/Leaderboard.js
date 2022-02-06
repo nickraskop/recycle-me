@@ -18,6 +18,8 @@ export default function Leaderboard() {
   function FbCreate() {
     const [id, setId] = useState("")
     const [name, setName] = useState("")
+    const [category, setCategory] = useState("")
+    const [image, setImagePath] = useState("")
 
     function createDoc(newDataObj){
       ref
@@ -58,7 +60,9 @@ export default function Leaderboard() {
     </ul>
     {loader === false && (data.map((dev) =>(
         <div key={dev.id}> 
-        <p>Item: {dev.name}</p>
+        <p>Name: {dev.name}</p>
+        <p>Category: {dev.category}</p>
+        <p>Image: {dev.image}</p>
         </div>
       )))}
 
