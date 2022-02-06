@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+#bin-container {
+  background-color: lightblue;
+  width: auto;
+  height: 50em;
+  position: relative;
+}
+
+#recycle {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: absolute;
+  bottom: 100px;
+}
+
