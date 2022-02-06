@@ -145,10 +145,10 @@ body{
 
 .trash {
   width: 50px;
-  height: 50px;
+  height: auto;
   /* left: 500px; */
-  background-color: black;
   position: absolute;
+  content:url(/Users/jonathan/Downloads/images/waterBottle.png);
 }
 
 #about-title {
@@ -168,4 +168,8 @@ button {
   text-align: center;
   min-height: 50vh;
   font-size: 50px;
+}
+
+#score{
+  font-size: 30px;
 }

@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: red;
 }
 
 code {
@@ -41,6 +42,6 @@ li a:hover {
 
 body {
   text-align: center;
-  background-color: #9BDF7E;
+  background-color: #9BDF7;
 }
 

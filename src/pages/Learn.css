@@ -1,0 +1,41 @@
+ 
+  p {
+    text-align: left;
+    margin-left: 55px;
+  }
+  
+  h2 {
+    text-align: left;
+    margin-left: 55px;
+  }
+  
+  h3 {
+    position: relative;
+    left: 50px;
+  }
+  
+  table {
+    position: relative;
+    left: 50px;
+    width: 80%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 5px 10px rgb(79, 108, 102);
+  }
+  
+  td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 15px;
+    border-radius: 15px;
+  }
+  th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 15px;
+    border-radius: 15px;
+  }
