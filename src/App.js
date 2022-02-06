@@ -6,8 +6,8 @@ import Leaderboard from './pages/Leaderboard';
 import Learn from './pages/Learn';
 import About from './pages/About';
 
-
 function App() {
+
   return (
     <Routes>
       <Route path="play" element={<Play />} />
@@ -15,6 +15,7 @@ function App() {
       <Route path="learn" element={<Learn />} />
       <Route path="about" element={<About />} />
     </Routes>
+    
   );
 }
 
